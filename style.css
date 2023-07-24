@@ -5,16 +5,25 @@
 }
 .note{
     font-size: 15px;
-    color:rgb(255, 0, 0);
+    color:black;
 }
 .body{
     background-size:cover;
 }
-.div_name{
-float: center;
-}
+.div_volume{
+    float: right;
+    }
 
-#name{
-    font-size: 23px;
-    margin: 15px;
-}
+    #volume{
+        font-size: 23px;
+        margin: 15px;
+    }
+
+.div_volume2{
+    float: right;
+    }
+
+    #volume2{
+        font-size: 23px;
+        margin: 15px;
+    }
